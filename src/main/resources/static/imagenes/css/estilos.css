@@ -1,0 +1,46 @@
+
+
+#tituloPrincipal{
+    color:  aqua;
+    font-size: 50px;
+    
+}
+
+.parrafoNegrita{
+    font-weight: bold;
+    color: darkgreen;
+}
+
+.parrafoEspecial{
+    font-family: Comic Sans MS;
+    
+}
+.prioridad{
+    color: red;
+    
+}
+.prioridad1{
+    color: red;
+    
+}
+.prioridad2{
+    color: appworkspace;
+    
+}
+p{
+    word-spacing: 5px;
+}
+.ejemploCajas{
+    border :  2px solid black;
+    
+    
+    padding: 20px 10px 15px 30px
+        
+    
+    
+    
+    
+}
+
+
+
